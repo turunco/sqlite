@@ -1,0 +1,2 @@
+# sqlite
+practce of sqlite
