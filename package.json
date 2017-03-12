@@ -1,0 +1,13 @@
+{
+    "name": "sqlite",
+    "version": "0.1.0",
+    "description": "practice sqlite",
+    "scripts": {
+        "start": "node ./main.js"
+    },
+    "author": "turunco",
+    "license": "ISC",
+    "devDependencies": {
+        "sqlite3": "^3.1.8"
+    }
+}
